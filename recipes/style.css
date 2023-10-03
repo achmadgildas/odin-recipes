@@ -1,0 +1,22 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: darkcyan;
+    color: white;
+    font-weight: bold;
+   font-style: oblique;
+   text-shadow: 2px 2px grey
+}
+
+h1{
+    background-color: lightcoral;
+    padding: 5%;
+    text-align: center;
+}
+
+img{
+    width: 2000px;
+    padding: 2%;
+    background-color: lightgreen;
+    flex:inherit;
+    align-items: center;
+}
